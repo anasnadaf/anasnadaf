@@ -1,7 +1,8 @@
 ### Hi there 👋 <br> I'm Anas Nadaf.<br>
 
+![](https://komarev.com/ghpvc/?username=anasnadaf)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasnadaf&show_icons=true&theme=dark)
+![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasnadaf&show_icons=true&theme=dark)
 
 
 
