@@ -1,7 +1,5 @@
-### Hi there 👋 <br> I'm Anas Nadaf.<br>
+## Anas Nadaf
 
-![](https://komarev.com/ghpvc/?username=anasnadaf)
+ML engineer. Production LLM and agentic systems — training, evaluation, and the infrastructure underneath.
 
-
-
-
+[anasnadaf.com](https://anasnadaf.com) · [LinkedIn](https://linkedin.com/in/anasnadaf) · [Email](mailto:anaswillreply@gmail.com)
